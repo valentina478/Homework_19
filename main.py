@@ -6,7 +6,6 @@ data = {
     'Name': ['Emily', 'Liam', 'Sophia', 'Jackson', 'Olivia', 'John', 'Anna', 'William', 'Mia', 'Benjamin'],
     'Age': [25, 32, 18, 40, 29, 50, 22, 36, 27, 45],
     'Gender': ['Female', 'Male', 'Female', 'Male', 'Female', 'Male', 'Female', 'Male', 'Female', 'Male'],
-    # 'Score': [78, 92, 96, 85, 71, 96, 87, 89, 77, 68]
     'Score': [97, 92, 91, 85, 80, 96, 78, 89, 84, 68]
 }
 df = pd.DataFrame(data) # task_1
